@@ -13,9 +13,13 @@ This project contains fractals implemented through recursion. One is the popular
 
 This project is set up for use on Linux. Use the provided Makefile ($ make Makefile) to compile and link the source and object files.
 To properly start the program please run the command $ ./sierpinski [number of layers] [window size]
+
 ex:
+
 make Makefile
+
 ./sierpinski 4 600
+
 ./original 2 800
 
 ## Library Reference
