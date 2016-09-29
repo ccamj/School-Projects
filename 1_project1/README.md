@@ -1,5 +1,5 @@
 ## File Layout
-This project contains to programs compiled and linked together in the Makefile.
+This project contains two programs which can be compiled and linked together with the Makefile.
 Program1: sierpinski_main.cpp (main file), sierpinski.cpp, sierpinski.hpp
 Program2: original_main.cpp (main file), original.cpp, original.hpp
 
