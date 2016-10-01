@@ -1,3 +1,12 @@
+/**
+	PhotoMagic.cpp
+	Purpose: Encrypts and Decrypts images with a LFSR
+
+	@author cam campbell
+	
+	9/30/2016
+*/
+
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include <cmath>
