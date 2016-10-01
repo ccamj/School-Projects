@@ -1,13 +1,11 @@
-#include <SFML/System.hpp>
-#include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
 #include <iostream>
-#include <string>
 #include <algorithm>
 #include "LFSR.hpp"
-//./ps2b ./cat.png ./cat2.png 101010001010010 6
+
 int main(int argc, char* argv[]) {
 	std::string in_file, out_file;
+	
 	// check for correct amount of args
 	if (argc < 4) {
 		std::cout << "Please use the following:\n" << argv[0] 
