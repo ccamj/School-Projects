@@ -1,6 +1,5 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
-#include <algorithm>
 #include "LFSR.hpp"
 
 int main(int argc, char* argv[]) {
