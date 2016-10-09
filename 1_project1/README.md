@@ -1,9 +1,3 @@
-## File Layout
-This project contains two programs which can be compiled and linked together with the Makefile.
-Program1: sierpinski_main.cpp (main file), sierpinski.cpp, sierpinski.hpp
-Program2: original_main.cpp (main file), original.cpp, original.hpp
-
-Other files: Makefile, sierpinski_screenshot.png, original_screenshot.png
 
 ## Synopsis
 
@@ -21,6 +15,13 @@ make Makefile
 ./sierpinski 4 600
 
 ./original 2 800
+
+## File Layout
+This project contains two programs which can be compiled and linked together with the Makefile.
+Program1: sierpinski_main.cpp (main file), sierpinski.cpp, sierpinski.hpp
+Program2: original_main.cpp (main file), original.cpp, original.hpp
+
+Other files: Makefile, sierpinski_screenshot.png, original_screenshot.png
 
 ## Library Reference
 
