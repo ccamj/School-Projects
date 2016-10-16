@@ -4,7 +4,7 @@ Takes real world celestial body data from text files (ex. planets.txt and binary
 
 One text file is designed to create the first 4 planets of our solar system and the sun (having all of the planets is just too big to scale down to a screen size and still be able to see)
 
-The other text file creates a fictional binary star solar system created by me.
+The other text file creates a fictional binary star system created by me.
 
 ## Installation
 
