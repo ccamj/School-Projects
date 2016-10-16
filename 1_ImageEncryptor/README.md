@@ -1,6 +1,6 @@
 ## Synopsis
 
-A program to encrypt and decryt an image file using my Left Feedback Shift Register. Works best with PNG, BMP and other non compressed image files.
+A program to encrypt and decrypt an image file using my Left Feedback Shift Register. Works best with PNG, BMP and other non compressed image files.
 
 ## Installation
 
