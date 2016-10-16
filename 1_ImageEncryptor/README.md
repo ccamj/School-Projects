@@ -15,6 +15,7 @@ make
 
 ## File Layout
 Files:
+
 PhotoMagic.cpp (main) - Handles input and output. Uses the LSFR class to encrypt the image then saves in to a new file
 
 LFSR.cpp/hpp - Takes a binary string and a Tap and shifts each bit one over to the left from the Tap position.
