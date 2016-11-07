@@ -11,8 +11,11 @@ To properly start the program either  run the execuable or run the command $ ./G
 
 ## File Layout
 Files:
+
 GuitarHero.cpp: (main file) assigns frequencies to key index's, catches key presses
+
 RingBuffer.cpp: used as a Queue to store the sound buffer, giving sound feedback
+
 GuitarString.cpp uses a RingBuffer, modeling a vibrating GuitarString
 
 Other files: Makefile
