@@ -18,7 +18,7 @@ RingBuffer.cpp: used as a Queue to store the sound buffer, giving sound feedback
 
 GuitarString.cpp uses a RingBuffer, modeling a vibrating GuitarString
 
-Other files: Makefile
+Other files: Makefile, font.ttc (used to display frequency)
 
 ## Library Reference
 
