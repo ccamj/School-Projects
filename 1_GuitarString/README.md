@@ -15,8 +15,7 @@ GuitarHero.cpp: (main file) assigns frequencies to key index's, catches key pres
 RingBuffer.cpp: used as a Queue to store the sound buffer, giving sound feedback
 GuitarString.cpp uses a RingBuffer, modeling a vibrating GuitarString
 
-Other files: Makefile, screenshot1.png, screenshot_custom.png, planets.txt, binary.txt
-/nbody/: mercury.gif, venus.gif, earth.gif, mars.gif, sun.gif, coment.gif
+Other files: Makefile
 
 ## Library Reference
 
